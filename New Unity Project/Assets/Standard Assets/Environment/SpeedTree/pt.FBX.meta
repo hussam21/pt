@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: cf541dcbae8286d45ac81c78e7330daa
+timeCreated: 1442606813
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Door Sofia
+    100002: Door Sofia003
+    100004: Group004
+    100006: Group01
+    100008: Handle - 0
+    100010: Handle bo0
+    100012: Handle bod
+    100014: Handle ca0
+    100016: Handle ca1
+    100018: Handle ca2
+    100020: Handle cap
+    100022: Handle pa0
+    100024: Handle par
+    100026: Plane001
+    100028: Plane002
+    100030: Plane003
+    100032: Plane004
+    100034: //RootNode
+    100036: StraightStair001
+    100038: Wall001
+    100040: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE034"
+    100042: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE10"
+    100044: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE11"
+    100046: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE12"
+    100048: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE13"
+    100050: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE14"
+    100052: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE15"
+    100054: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE16"
+    100056: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB0"
+    100058: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB023"
+    100060: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB024"
+    100062: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB025"
+    100064: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB026"
+    100066: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB027"
+    100068: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB028"
+    100070: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB029"
+    100072: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB030"
+    100074: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB031"
+    100076: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB1"
+    100078: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB2"
+    100080: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB3"
+    100082: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB4"
+    100084: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB5"
+    100086: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB6"
+    100088: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB7"
+    100090: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB8"
+    100092: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB9"
+    100094: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB\xF5"
+    100096: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB\xF5003"
+    400000: Door Sofia
+    400002: Door Sofia003
+    400004: Group004
+    400006: Group01
+    400008: Handle - 0
+    400010: Handle bo0
+    400012: Handle bod
+    400014: Handle ca0
+    400016: Handle ca1
+    400018: Handle ca2
+    400020: Handle cap
+    400022: Handle pa0
+    400024: Handle par
+    400026: Plane001
+    400028: Plane002
+    400030: Plane003
+    400032: Plane004
+    400034: //RootNode
+    400036: StraightStair001
+    400038: Wall001
+    400040: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE034"
+    400042: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE10"
+    400044: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE11"
+    400046: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE12"
+    400048: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE13"
+    400050: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE14"
+    400052: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE15"
+    400054: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE16"
+    400056: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB0"
+    400058: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB023"
+    400060: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB024"
+    400062: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB025"
+    400064: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB026"
+    400066: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB027"
+    400068: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB028"
+    400070: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB029"
+    400072: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB030"
+    400074: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB031"
+    400076: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB1"
+    400078: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB2"
+    400080: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB3"
+    400082: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB4"
+    400084: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB5"
+    400086: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB6"
+    400088: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB7"
+    400090: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB8"
+    400092: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB9"
+    400094: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB\xF5"
+    400096: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB\xF5003"
+    2300000: Handle bo0
+    2300002: Handle bod
+    2300004: Handle ca0
+    2300006: Handle ca1
+    2300008: Handle ca2
+    2300010: Handle cap
+    2300012: Plane001
+    2300014: Plane002
+    2300016: Plane003
+    2300018: Plane004
+    2300020: StraightStair001
+    2300022: Wall001
+    2300024: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE034"
+    2300026: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE10"
+    2300028: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE11"
+    2300030: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE12"
+    2300032: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE13"
+    2300034: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE14"
+    2300036: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE15"
+    2300038: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE16"
+    2300040: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB023"
+    2300042: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB024"
+    2300044: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB025"
+    2300046: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB026"
+    2300048: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB027"
+    2300050: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB028"
+    2300052: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB029"
+    2300054: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB1"
+    2300056: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB2"
+    2300058: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB3"
+    2300060: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB4"
+    2300062: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB5"
+    2300064: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB6"
+    2300066: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB7"
+    2300068: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB8"
+    3300000: Handle bo0
+    3300002: Handle bod
+    3300004: Handle ca0
+    3300006: Handle ca1
+    3300008: Handle ca2
+    3300010: Handle cap
+    3300012: Plane001
+    3300014: Plane002
+    3300016: Plane003
+    3300018: Plane004
+    3300020: StraightStair001
+    3300022: Wall001
+    3300024: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE034"
+    3300026: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE10"
+    3300028: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE11"
+    3300030: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE12"
+    3300032: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE13"
+    3300034: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE14"
+    3300036: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE15"
+    3300038: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE16"
+    3300040: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB023"
+    3300042: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB024"
+    3300044: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB025"
+    3300046: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB026"
+    3300048: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB027"
+    3300050: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB028"
+    3300052: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB029"
+    3300054: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB1"
+    3300056: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB2"
+    3300058: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB3"
+    3300060: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB4"
+    3300062: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB5"
+    3300064: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB6"
+    3300066: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB7"
+    3300068: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB8"
+    4300000: Wall001
+    4300002: StraightStair001
+    4300004: Plane001
+    4300006: Plane002
+    4300008: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB1"
+    4300010: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB2"
+    4300012: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB3"
+    4300014: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB4"
+    4300016: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB5"
+    4300018: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB6"
+    4300020: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB7"
+    4300022: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB8"
+    4300024: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE10"
+    4300026: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE11"
+    4300028: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE12"
+    4300030: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE13"
+    4300032: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE14"
+    4300034: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE15"
+    4300036: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE16"
+    4300038: Handle cap
+    4300040: Handle ca0
+    4300042: Handle bod
+    4300044: Handle ca1
+    4300046: Handle ca2
+    4300048: Handle bo0
+    4300050: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB025"
+    4300052: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB026"
+    4300054: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE034"
+    4300056: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB023"
+    4300058: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB024"
+    4300060: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB027"
+    4300062: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB028"
+    4300064: "\xC4\xE2\xE5\xF0\xFC \xC2\xEE\xEB029"
+    4300066: Plane003
+    4300068: Plane004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
